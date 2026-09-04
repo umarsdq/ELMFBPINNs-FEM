@@ -1,0 +1,8 @@
+# Exact versions used for the final clean-clone verification on 4 September 2026.
+numpy==2.5.1
+scipy==1.18.0
+pandas==3.0.5
+matplotlib==3.11.1
+jax==0.11.0
+jaxlib==0.11.0
+fbpinns @ git+https://github.com/benmoseley/FBPINNs.git@22a91030c0c11023e3ee8c9f76cd85a621acaaeb
